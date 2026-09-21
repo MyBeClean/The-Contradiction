@@ -11,5 +11,8 @@
 !ProjectSettings/
 !ProjectSettings/**
 
+!Documentation/
+!Documentation/**
+
 # izinkan file gitignore
 !.gitignore
