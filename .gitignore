@@ -1,0 +1,15 @@
+# abaikan semua
+*
+
+# izinkan folder project Unity yang diperlukan
+!Assets/
+!Assets/**
+
+!Packages/
+!Packages/**
+
+!ProjectSettings/
+!ProjectSettings/**
+
+# izinkan file gitignore
+!.gitignore
