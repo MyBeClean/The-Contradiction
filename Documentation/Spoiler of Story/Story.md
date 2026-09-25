@@ -1,529 +1,376 @@
 # THE CONTRADICTION
-## SPOILER STORY
 
-> **WARNING: MAJOR SPOILERS**
+## SPOILER INFORMATION
+
+> **WARNING: SPOILERS**
 >
-> This document contains major story revelations, character information, events, and explanations of the central mystery of *The Contradiction*.
+> This document contains information about the story of *The Contradiction*.
 >
-> If you want to experience the game without knowing what is happening, stop reading here.
+> However, major events, reveals, and important details have intentionally been kept vague.
 
 ---
 
-# 1. THE BEGINNING
+# THE STORY
 
-The game begins with an ordinary morning.
+*The Contradiction* begins with a completely ordinary morning.
 
-The protagonist wakes up inside their house and begins following their normal routine.
+The protagonist wakes up, gets ready, takes a shower, and continues their usual routine.
 
-They take a towel, go to the bathroom, take a shower, get dressed, and eventually check their phone.
+Nothing immediately suggests that anything is wrong.
 
-Nothing immediately appears supernatural.
+After checking their phone, however, the protagonist receives a message from their friend, **Samuel**.
 
-The house feels familiar.
+Samuel asks for help.
 
-The environment behaves like an ordinary home.
+The protagonist goes to Samuel's house, where Samuel gives them something important and begins explaining his research.
 
-This is intentional.
+The subject of the research is something known as **The Contradiction**.
 
-The player is given the impression that they are experiencing another normal day.
+At this point, the protagonist does not fully understand what Samuel has discovered.
 
-However, small inconsistencies begin to appear.
-
-Some things feel slightly wrong.
-
-The protagonist does not immediately understand why.
-
-Neither does the player.
+After returning home, life continues almost normally.
 
 ---
 
-# 2. SAMUEL
+# AN ORDINARY LIFE
 
-During the day, the protagonist communicates with their friend, **Samuel**.
+The protagonist begins their daily work.
 
-Samuel is interested in a strange research subject known simply as **"The Contradiction."**
+Their job involves creating and editing videos for clients.
 
-At first, the protagonist does not completely understand what Samuel is talking about.
+The work follows a simple cycle.
 
-Samuel explains that a contradiction is not simply something strange.
+A client sends an order.
 
-It is something that should not be able to exist according to the rules that normally define reality.
+The protagonist edits the video according to the client's requirements.
 
-Something can be physically present while simultaneously violating the conditions that should allow it to exist.
+If the result is incorrect, the order must be repeated.
 
-Samuel has been investigating these phenomena for some time.
+A successful order results in payment.
 
-He believes that certain locations may be affected by them.
+This process happens repeatedly throughout the day.
 
-The protagonist initially treats the subject as an unusual research project.
+The repetition is intentional.
 
-That changes later.
-
----
-
-# 3. THE ORDINARY LIFE
-
-The protagonist spends part of the game working from home.
-
-Their job involves editing videos for clients.
-
-The player performs relatively ordinary tasks:
-
-- Opening projects
-- Editing footage
-- Responding to revisions
-- Completing client requests
-- Receiving ratings
-- Receiving payment
-- Repeating the process
-
-The repetition is important.
-
-The game deliberately establishes a predictable routine.
-
-The player learns how the house works.
-
-They learn where objects are.
-
-They learn how the protagonist spends their time.
-
-The world begins as something understandable.
-
-Then the rules start changing.
+The game establishes a normal routine before gradually introducing something that does not belong in it.
 
 ---
 
-# 4. THE FIRST CONTRADICTIONS
+# SAMUEL'S RESEARCH
 
-The first strange events are subtle.
+After spending the day working, the protagonist remembers Samuel and becomes curious about his research.
 
-Objects may appear slightly different from how the player remembers them.
+They begin searching the internet for information about **The Contradiction**.
 
-Sounds may occur when nothing appears to have caused them.
+They look for examples.
 
-The house may feel larger or smaller depending on where the player is standing.
+Eventually, they find something that gives them an actual example of what Samuel was talking about.
 
-Some events are easy to dismiss.
+But instead of providing a clear explanation, the discovery only creates more questions.
 
-The player may assume they are environmental details.
+The protagonist still does not understand what The Contradiction truly is.
 
-But eventually, the contradictions become impossible to ignore.
-
-The house is no longer behaving according to ordinary physical rules.
+They go to sleep.
 
 ---
 
-# 5. DAY TWO
+# SOMETHING CHANGES
 
-The second day begins differently.
+The next day, Samuel calls.
 
-Samuel contacts the protagonist again.
+He urgently tells the protagonist to come to his house.
 
-This time, his behavior is more urgent.
+The protagonist does not immediately follow his instructions.
 
-He tells the protagonist that something has changed.
+Instead, they continue their normal routine.
 
-The research surrounding The Contradiction has produced results that Samuel did not expect.
+Eventually, the protagonist goes to Samuel's house.
 
-He believes the protagonist may already be inside an affected area.
-
-The protagonist does not fully understand what that means.
-
-Samuel eventually becomes unavailable.
-
-His disappearance leaves the protagonist alone.
-
----
-
-# 6. THE EMPTY HOUSE
-
-The protagonist investigates the house.
-
-Something is wrong.
-
-The environment appears familiar, but the feeling of safety is gone.
+But Samuel is not there.
 
 The house is empty.
 
-There is no obvious explanation for where Samuel is.
+There is no obvious explanation.
 
-The protagonist continues exploring.
+The protagonist searches for him, but finds nothing.
 
-Eventually, they discover something they were never supposed to find.
+They eventually return home.
 
-A **forbidden door**.
+Life continues.
 
-The door does not belong in the house.
+Work.
 
-It leads somewhere that should not exist.
+Food.
 
-Behind it is evidence that the house is connected to something much larger.
+Sleep.
 
----
+Another ordinary routine.
 
-# 7. THE LABORATORY
-
-The protagonist eventually discovers a hidden laboratory.
-
-The laboratory appears to be connected to Samuel's research.
-
-Equipment, documents, and other objects suggest that experiments have been conducted there.
-
-The purpose of the research becomes clearer.
-
-The researchers were not trying to create a supernatural phenomenon.
-
-They were trying to **observe and understand one**.
-
-The Contradiction appears to be a phenomenon capable of interfering with fundamental physical relationships.
-
-Space.
-
-Direction.
-
-Distance.
-
-Gravity.
-
-And eventually, perception itself.
+But Samuel still does not respond.
 
 ---
 
-# 8. THE HOLE
+# THE ABSENCE
 
-Inside the laboratory is a massive abnormality.
+The next morning, there is still no response from Samuel.
 
-It appears to behave like a hole, but it does not function like an ordinary physical hole.
+The protagonist continues their day for a while.
 
-Objects near it are pulled toward it.
+Then they remember him again.
 
-But the deeper the protagonist investigates, the less certain the meaning of "toward" becomes.
+They return to Samuel's house.
 
-The direction of movement begins to lose meaning.
+Nothing has changed.
 
-Objects can appear to fall sideways.
+The house remains empty.
 
-Something that should be above can become below.
+This time, however, the protagonist begins exploring.
 
-The environment begins violating the rules the player has learned.
+During the exploration, they discover a room they have never entered before.
 
-The protagonist eventually approaches the phenomenon.
+Samuel had previously forbidden them from entering it.
 
-And reality breaks.
+The protagonist enters.
 
----
+Inside, they discover things that should not be there.
 
-# 9. THE HALLWAY
+Things that are difficult to explain.
 
-The protagonist falls through the abnormality.
+And eventually, they discover something even stranger.
 
-Instead of reaching another physical location, they enter an impossible space.
-
-A hallway.
-
-It looks familiar.
-
-But it is not the hallway from the house.
-
-There is no clear beginning.
-
-There is no clear end.
-
-The geometry appears normal until the player moves through it.
-
-Then the rules change.
-
-Rooms may connect to places that should be impossible to reach.
-
-The protagonist realizes that they are no longer navigating ordinary space.
+Something that should not exist.
 
 ---
 
-# 10. REVERSED GRAVITY
+# THE DISCOVERY
 
-The Contradiction eventually manifests through one of its most obvious effects.
+The protagonist encounters an abnormal phenomenon.
 
-**Gravity reverses.**
+It appears to be connected to Samuel's research.
 
-The protagonist discovers that the ceiling can become the floor.
+The phenomenon does not behave according to normal physical rules.
 
-Objects fall upward.
+Before the protagonist can fully understand what they are seeing, something happens.
 
-The environment can suddenly change its orientation.
+The protagonist is pulled into it.
 
-The player can walk across surfaces that were previously ceilings.
-
-This is not an illusion.
-
-The protagonist is experiencing a genuine alteration of physical rules.
-
-The terrifying part is not simply that gravity has reversed.
-
-It is that the world continues behaving as though nothing is wrong.
+What happens afterward changes the nature of the game completely.
 
 ---
 
-# 11. THE CREATURE
+# THE OTHER SIDE
 
-Something else exists inside the distorted environment.
+The protagonist finds themselves somewhere unfamiliar.
 
-The protagonist encounters a creature.
+A seemingly endless environment.
 
-Its movement does not follow normal human biomechanics.
+There is no clear explanation for where they are.
 
-It can move across surfaces that should be impossible to walk on.
+The familiar world is gone.
 
-When gravity changes, the creature adapts immediately.
+The rules that previously made the protagonist's daily life predictable begin to lose their meaning.
 
-It can continue pursuing the protagonist across walls and ceilings.
+The protagonist continues moving forward.
 
-The creature is not simply a monster placed inside the environment.
+But the environment is no longer simply a place.
 
-Its existence is itself another contradiction.
-
-It appears to belong to a reality where the normal rules never applied.
-
-The protagonist does not understand whether the creature was created by the phenomenon or merely revealed by it.
+It has become part of the mystery.
 
 ---
 
-# 12. THE TRUTH ABOUT SAMUEL
+# THE ROUTINE RETURNS
 
-Samuel's research eventually reveals something disturbing.
+Strangely, parts of the protagonist's normal routine begin appearing again.
 
-He had discovered evidence that The Contradiction was not an isolated anomaly.
+Things that previously felt ordinary now feel completely different.
 
-The phenomenon had been observed before.
+The player is forced to confront familiar actions in an unfamiliar situation.
 
-People had attempted to study it.
+The distinction between normal life and the strange environment begins to disappear.
 
-Some disappeared.
+The player must pay attention.
 
-Some abandoned their research.
-
-Others continued despite knowing the risks.
-
-Samuel became convinced that the phenomenon was not simply changing individual objects.
-
-It was affecting the **relationship between reality and observation**.
-
-The more someone attempted to understand it, the more they became involved with it.
-
-Samuel's disappearance was therefore not necessarily an accident.
-
-He may have entered The Contradiction deliberately.
-
-Or The Contradiction may have reached him first.
-
-The game intentionally leaves part of this unanswered.
+What was previously routine may no longer be routine.
 
 ---
 
-# 13. WHAT IS THE CONTRADICTION?
+# THE RULES CHANGE
 
-The Contradiction is not simply a creature.
+Eventually, the player encounters a section where movement itself becomes unreliable.
 
-It is not simply a portal.
+The controls no longer behave as expected.
 
-It is not simply reversed gravity.
+Direction becomes confusing.
 
-It is a phenomenon in which mutually incompatible rules can exist simultaneously.
+The player must learn to move differently.
 
-Something can be true and impossible at the same time.
+Looking in the wrong direction can have consequences.
 
-For example:
+Moving forward does not necessarily mean what it used to mean.
 
-The protagonist can be inside the house.
-
-The protagonist can also be somewhere that cannot physically connect to the house.
-
-Both statements can become true.
-
-That is The Contradiction.
+The environment begins forcing the player to question their own understanding of movement and space.
 
 ---
 
-# 14. REALITY BEGINS TO COLLAPSE
+# THE SHADOWS
 
-As the protagonist continues deeper, the environment becomes increasingly unstable.
+The protagonist encounters strange figures connected to familiar moments from their life.
 
-Familiar locations appear in unfamiliar places.
+Things that once represented ordinary parts of the day become something else.
 
-Doors lead to impossible rooms.
+Morning.
 
-Gravity changes.
+Food.
 
-Distances stop behaving normally.
+Work.
 
-Sounds appear disconnected from their sources.
+Samuel.
 
-The protagonist begins losing confidence in what constitutes the "real" world.
+The familiar becomes unfamiliar.
 
-The game gradually removes the certainty established during the opening.
+The player is forced to escape.
 
-The player initially learned the rules.
-
-Then the game taught them that the rules could be broken.
-
-Finally, it begins questioning whether there were rules at all.
+The further the protagonist goes, the more the boundary between their normal life and the strange world begins to disappear.
 
 ---
 
-# 15. THE CLIMAX
+# THE GRAVITY
 
-The protagonist eventually reaches the deepest part of The Contradiction.
+Eventually, the environment changes again.
 
-The environment is no longer recognizable as a house, laboratory, or normal location.
+Gravity no longer behaves normally.
 
-The boundaries between spaces have collapsed.
+The player must adapt to an environment where the relationship between up and down cannot be trusted.
 
-The creature pursues the protagonist through the distorted environment.
+The protagonist discovers that the strange environment has its own rules.
 
-Gravity repeatedly changes.
+But those rules are not explained.
 
-The player must navigate the environment while the rules continue shifting.
+They must be experienced.
 
-The protagonist realizes that escaping The Contradiction may not be as simple as leaving the building.
+Something else is also present.
 
-The phenomenon has already affected their perception of reality.
-
----
-
-# 16. THE FINAL REVELATION
-
-The protagonist eventually discovers the most important implication of Samuel's research.
-
-The Contradiction does not necessarily create impossible things.
-
-It may instead **remove the restrictions that normally prevent impossible things from occurring.**
-
-Normal reality can be understood as a collection of rules.
-
-Objects fall downward.
-
-Rooms occupy physical locations.
-
-A person cannot simultaneously occupy two separate places.
-
-Distance behaves consistently.
-
-The Contradiction allows those restrictions to fail.
-
-When the rules fail, impossible states become possible.
-
-That is why the environment becomes increasingly unpredictable.
+Something that should not be there.
 
 ---
 
-# 17. THE ENDING
+# THE CREATURE
 
-The protagonist reaches a point where they must continue deeper into the phenomenon or attempt to escape.
+The protagonist encounters a strange entity.
 
-The game does not provide a completely comfortable explanation.
+Its appearance and behavior are difficult to explain.
 
-Some questions remain unanswered.
+It does not move like something that belongs in the normal world.
 
-Where did The Contradiction originate?
+The environment changes around it.
 
-Was it discovered or created?
+The protagonist is forced to run.
 
-What happened to Samuel?
+The rules of the environment continue changing while the entity pursues them.
 
-Was the creature once something else?
-
-And most importantly:
-
-**Did the protagonist actually escape?**
-
-The final moments deliberately leave room for interpretation.
-
-The player may believe the protagonist has returned to normal reality.
-
-But subtle details suggest otherwise.
-
-Something is still wrong.
+The player must follow the strange path presented to them and escape.
 
 ---
 
-# 18. THE MEANING OF THE TITLE
+# SAMUEL
 
-The title **THE CONTRADICTION** refers to more than the supernatural phenomenon.
+Eventually, the protagonist reaches a series of doors.
 
-It represents the central idea of the entire game.
+The doors behave strangely.
 
-The protagonist wants reality to make sense.
+The protagonist continues forward.
 
-The player wants the environment to follow rules.
+At the end of the path, someone appears.
 
-The game continually provides rules, then breaks them.
+**Samuel.**
 
-The Contradiction is therefore both:
+For the first time since his disappearance, the protagonist finally finds him.
 
-- A phenomenon inside the story
-- The fundamental structure of the world itself
+But the reunion does not happen the way it should.
 
-The player is not simply fighting a monster.
+Samuel says something that changes the way the protagonist understands everything that has happened.
 
-They are trying to understand a reality that has stopped agreeing with itself.
+Then something appears behind him.
 
----
+Something the protagonist has already encountered.
 
-# 19. THE UNANSWERED QUESTIONS
+Samuel laughs.
 
-### WHO CREATED THE CONTRADICTION?
-
-Unknown.
-
-There is evidence that humans studied it, but no definitive evidence that humans created it.
-
-### WHAT IS THE CREATURE?
-
-Unknown.
-
-It appears to exist within The Contradiction's altered rules, but its origin is never completely established.
-
-### WHAT HAPPENED TO SAMUEL?
-
-Uncertain.
-
-His research strongly suggests that he became involved with the phenomenon, but his ultimate fate is left ambiguous.
-
-### IS THE PROTAGONIST ACTUALLY BACK IN REALITY?
-
-Unknown.
-
-The ending intentionally provides evidence that can support more than one interpretation.
-
-### CAN THE CONTRADICTION BE STOPPED?
-
-Unknown.
-
-The research suggests that understanding it may be fundamentally different from controlling it.
+And what happens next becomes one of the most important moments of the story.
 
 ---
 
-# 20. THE CORE IDEA
+# THE END
 
-*The Contradiction* is ultimately a story about discovering that reality is only predictable because its rules remain consistent.
+The protagonist is forced to run again.
 
-When those rules stop agreeing with each other, ordinary life becomes terrifying.
+The entity continues pursuing them.
 
-The protagonist begins the story believing that the world is understandable.
+There is no time to understand everything.
 
-By the end, they discover that understanding the world requires something more fundamental than simply knowing what normally happens.
+Only one objective remains:
 
-They must understand **why the rules exist in the first place.**
+**escape.**
 
-And when those rules disappear...
+Eventually, the protagonist sees something ahead.
 
-There is no guarantee that reality will remain reality.
+A light.
+
+The screen changes.
+
+The story ends.
+
+For now.
 
 ---
 
-# END OF SPOILER STORY
+# WHAT IS THE CONTRADICTION?
 
-**THE CONTRADICTION**
+The game intentionally does not provide a complete explanation.
 
-*Some things are impossible.*
+The Contradiction is connected to the strange events surrounding Samuel, the environment, and the impossible phenomena encountered throughout the story.
 
-*Until they aren't.*
+However, exactly what The Contradiction is remains unclear.
+
+The player is expected to question what they have experienced.
+
+Some answers can be discovered.
+
+Others are deliberately left uncertain.
+
+---
+
+# IMPORTANT NOTE
+
+This document intentionally does not reveal:
+
+- The exact nature of The Contradiction
+- The full purpose of Samuel's research
+- What is inside the forbidden room
+- What happens inside the strange environment
+- The meaning of the reversed controls
+- The true nature of the shadows
+- The reason gravity changes
+- The identity or origin of the creature
+- Samuel's true role
+- The meaning of Samuel's final statement
+- What happens immediately before the ending
+- What the final light actually means
+
+These events are meant to be experienced inside the game.
+
+The story provides pieces of information.
+
+The player must connect them.
+
+Not everything is explained.
+
+Not everything is supposed to be explained.
+
+---
+
+# TO BE CONTINUED
+
+**The story is not over.**
+
+**The Contradiction continues.**
